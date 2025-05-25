@@ -1,1 +1,2 @@
-# PowerBi-Project
+Olympics Data Analysis Project
+This Power BI project provides an interactive analysis of the Olympics dataset, including visualizations of medal counts, participating countries, athlete performance trends, and sport-wise participation. The dashboard offers insights into historical trends, top-performing nations, gender distribution, and athlete achievements. It is a dynamic tool for exploring the data visually and gaining deeper insights into the global event.
